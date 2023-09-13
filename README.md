@@ -49,7 +49,10 @@ TESS: The Toronto Emotional Speech Set (TESS) is designed specifically with the 
 
 IEMOCAP: The Interactive Emotional Dyadic Motion Capture (IEMOCAP) dataset contains approximately 12 hours of audio-visual data, including video, speech, motion capture of facial movements, and text transcriptions. This dataset captures a wide range of emotions in various contexts from ten actors in dyadic sessions. For this project, the emotions 'frustrated' and 'excited' were utilized. [3]
 
-5. References
+5. emotion_labels = {0: 'neutral', 1: 'happy', 2: 'sad', 3: 'Pleasent_Surprise', 4: 'fearful', 5: 'surprise',
+                  6: 'angry', 7: 'disgust', 8: 'calm', 9: 'excited', 10: 'frustrated', 11: 'boredom'}
+
+6. References
 
 Livingstone, S. R., & Russo, F. A. (2018). The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English. PloS one, 13(5), e0196391.
 Pichora-Fuller, M. K., et al. (2020). Toronto Emotional Speech Set (TESS).
